@@ -159,10 +159,7 @@ docker run -it -p 3389:3389 my-kali-xrdp
 - **Maintained by**: *Ankit Kushwaha*
 
 
-yaml
-Copy
-Edit
-
+```yaml
 ---
 
 ### ✅ Want to go further?
@@ -173,5 +170,6 @@ Let me know if you'd like:
 - Add SSH or VNC access
 - Custom security tools added (Metasploit, Burp Suite, etc.)
 - Full GUI-based ISO to Docker conversion
+```
 
 Just say the word!
